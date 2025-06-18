@@ -32,20 +32,20 @@ We combine deep technical expertise with hands-on leadership to deliver producti
 ## 👨‍🔧 Who should use this Org?
 These repositories is perfect for:
 
-- 🧑‍💻 **DevOps Engineers & SREs** preparing for senior interviews or handling production-scale systems.
-- 📊 **Tech Leads & Architects** designing fault-tolerant, scalable, and secure infrastructures.
-- 🧪 **Junior Engineers** who want to learn from real-world mistakes and patterns.
-- 🤝 **HR & Hiring Managers** evaluating hands-on DevOps expertise, leadership, and outcomes.
+-  **DevOps Engineers & SREs** preparing for senior interviews or handling production-scale systems.
+-  **Tech Leads & Architects** designing fault-tolerant, scalable, and secure infrastructures.
+-  **Junior Engineers** who want to learn from real-world mistakes and patterns.
+-  **HR & Hiring Managers** evaluating hands-on DevOps expertise, leadership, and outcomes.
 
 ## 🌟 What Makes This Unique?
-✅ All stories are **real** — drawn from personal experience high-scale platforms.  
-✅ Every scenario includes **tools used**, **decisions made**, and **lessons learned**.  
-✅ Combines **technical** + **soft skills** for full DevOps leadership readiness.
+ All stories are **real** — drawn from personal experience high-scale platforms.  
+ Every scenario includes **tools used**, **decisions made**, and **lessons learned**.  
+ Combines **technical** + **soft skills** for full DevOps leadership readiness.
 
 ## 📂 Coming Soon
-- 📜 eBook Version: "Real DevOps Challenges from the Field"
-- 🎥 Video Series: Crisis handling & solution breakdowns
-- 🧩 Templates: Terraform modules, Helm charts, CI/CD YAMLs
+-  eBook Version: "Real DevOps Challenges from the Field"
+-  Video Series: Crisis handling & solution breakdowns
+-  Templates: Terraform modules, Helm charts, CI/CD YAMLs
 
 ## 📚 Explore Our Work
 
